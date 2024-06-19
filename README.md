@@ -24,5 +24,7 @@
 
 - allow removal of copies/titles
 
+- catalog import?
+
 <a target="_blank" href="https://icons8.com/icon/erbSpfxGPqE3/poetry">Poetry</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <a target="_blank" href="https://www.asciiart.eu/image-to-ascii">ASCII Art Archive </a>
