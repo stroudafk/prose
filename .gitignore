@@ -1,0 +1,6 @@
+# compiled object
+.o 
+.obj
+
+# vscode
+.vscode/
